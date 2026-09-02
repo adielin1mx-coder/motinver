@@ -1,0 +1,400 @@
+{
+  "pages/home/portfolio-2": {
+    "requestedSize": {
+      "width": 600,
+      "height": 400,
+      "fit": "cover"
+    },
+    "orientations": "horizontal",
+    "graphicalStyles": "photography",
+    "minimumSize": "large",
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1427840762",
+    "searchQuery": "fintech technology startup growth charts data",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2200783370",
+      "https://img1.wsimg.com/isteam/getty/2226701221"
+    ],
+    "userModified": false,
+    "createdAt": "2026-08-30T02:18:46.465Z",
+    "lastUpdated": "2026-08-30T02:18:46.465Z",
+    "gettyId": "1427840762",
+    "alternativeGettyIds": [
+      "2200783370",
+      "2226701221"
+    ]
+  },
+  "pages/home/portfolio-1": {
+    "requestedSize": {
+      "width": 600,
+      "height": 400,
+      "fit": "cover"
+    },
+    "orientations": "horizontal",
+    "graphicalStyles": "photography",
+    "minimumSize": "large",
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1310354524",
+    "searchQuery": "startup founders team working office modern",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2272117970",
+      "https://img1.wsimg.com/isteam/getty/2238057072"
+    ],
+    "userModified": false,
+    "createdAt": "2026-08-30T02:18:48.146Z",
+    "lastUpdated": "2026-08-30T02:18:48.146Z",
+    "gettyId": "1310354524",
+    "alternativeGettyIds": [
+      "2272117970",
+      "2238057072"
+    ]
+  },
+  "pages/home/hero": {
+    "requestedSize": {
+      "width": 1920,
+      "height": 1080,
+      "fit": "cover"
+    },
+    "orientations": "horizontal",
+    "graphicalStyles": "photography",
+    "minimumSize": "large",
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2221325029",
+    "searchQuery": "executive boardroom night city skyline dark dramatic",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2031208312",
+      "https://img1.wsimg.com/isteam/getty/1364006919",
+      "https://img1.wsimg.com/isteam/getty/918898646",
+      "https://img1.wsimg.com/isteam/getty/1352374050"
+    ],
+    "userModified": false,
+    "createdAt": "2026-08-30T02:18:49.008Z",
+    "lastUpdated": "2026-08-30T02:18:49.008Z",
+    "gettyId": "2221325029",
+    "alternativeGettyIds": [
+      "2031208312",
+      "1364006919",
+      "918898646",
+      "1352374050"
+    ]
+  },
+  "pages/home/portfolio-3": {
+    "requestedSize": {
+      "width": 600,
+      "height": 400,
+      "fit": "cover"
+    },
+    "orientations": "horizontal",
+    "graphicalStyles": "photography",
+    "minimumSize": "large",
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1902265289",
+    "searchQuery": "healthcare medical technology innovation startup",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/1427417610",
+      "https://img1.wsimg.com/isteam/getty/2286811824"
+    ],
+    "userModified": false,
+    "createdAt": "2026-08-30T02:18:49.993Z",
+    "lastUpdated": "2026-08-30T02:18:49.993Z",
+    "gettyId": "1902265289",
+    "alternativeGettyIds": [
+      "1427417610",
+      "2286811824"
+    ]
+  },
+  "logo/horizontal": {
+    "mediaType": "logo",
+    "currentUrl": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/f9e55652-7dae-4ae5-9c29-c3a723ac4a39/session/bb6024fc-0189-4ce5-a6fa-38e5180c029a/horizontal-transparent-3d2b5988-48a2-4596-905f-1cd37f9849ff/logo-logo.png",
+    "searchQuery": "Change the brand name text to \"MONTIVER\" — keep all other design elements, icon,",
+    "alternatives": [],
+    "solidUrlMap": {
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/f9e55652-7dae-4ae5-9c29-c3a723ac4a39/session/f4c216e6-4540-446e-b589-4fb1352b273d/horizontal-transparent-77a54169-2f94-47a2-a1b0-5d08267dfc7b/logo-logo.png": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/f9e55652-7dae-4ae5-9c29-c3a723ac4a39/session/f4c216e6-4540-446e-b589-4fb1352b273d/horizontal-original-77a54169-2f94-47a2-a1b0-5d08267dfc7b/logo-logo.png",
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/f9e55652-7dae-4ae5-9c29-c3a723ac4a39/session/5e2e944d-dd3d-42d2-94b1-ac58ca055c0d/horizontal-transparent-9a1cb8b2-b5de-4e0b-afba-8c9873362257/logo-logo.png": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/f9e55652-7dae-4ae5-9c29-c3a723ac4a39/session/5e2e944d-dd3d-42d2-94b1-ac58ca055c0d/horizontal-original-9a1cb8b2-b5de-4e0b-afba-8c9873362257/logo-logo.png",
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/f9e55652-7dae-4ae5-9c29-c3a723ac4a39/session/bb6024fc-0189-4ce5-a6fa-38e5180c029a/horizontal-transparent-3d2b5988-48a2-4596-905f-1cd37f9849ff/logo-logo.png": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/f9e55652-7dae-4ae5-9c29-c3a723ac4a39/session/bb6024fc-0189-4ce5-a6fa-38e5180c029a/horizontal-original-3d2b5988-48a2-4596-905f-1cd37f9849ff/logo-logo.png"
+    },
+    "mockupUrlMap": {
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/f9e55652-7dae-4ae5-9c29-c3a723ac4a39/session/f4c216e6-4540-446e-b589-4fb1352b273d/horizontal-transparent-77a54169-2f94-47a2-a1b0-5d08267dfc7b/logo-logo.png": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/f9e55652-7dae-4ae5-9c29-c3a723ac4a39/session/f4c216e6-4540-446e-b589-4fb1352b273d/horizontal-transparent-77a54169-2f94-47a2-a1b0-5d08267dfc7b/logo-logo.png",
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/f9e55652-7dae-4ae5-9c29-c3a723ac4a39/session/5e2e944d-dd3d-42d2-94b1-ac58ca055c0d/horizontal-transparent-9a1cb8b2-b5de-4e0b-afba-8c9873362257/logo-logo.png": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/f9e55652-7dae-4ae5-9c29-c3a723ac4a39/session/5e2e944d-dd3d-42d2-94b1-ac58ca055c0d/horizontal-transparent-9a1cb8b2-b5de-4e0b-afba-8c9873362257/logo-logo.png",
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/f9e55652-7dae-4ae5-9c29-c3a723ac4a39/session/bb6024fc-0189-4ce5-a6fa-38e5180c029a/horizontal-transparent-3d2b5988-48a2-4596-905f-1cd37f9849ff/logo-logo.png": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/f9e55652-7dae-4ae5-9c29-c3a723ac4a39/session/bb6024fc-0189-4ce5-a6fa-38e5180c029a/horizontal-transparent-3d2b5988-48a2-4596-905f-1cd37f9849ff/logo-logo.png"
+    },
+    "landscapeMockupUrlMap": {},
+    "logoSourceMap": {
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/f9e55652-7dae-4ae5-9c29-c3a723ac4a39/session/f4c216e6-4540-446e-b589-4fb1352b273d/horizontal-transparent-77a54169-2f94-47a2-a1b0-5d08267dfc7b/logo-logo.png": {
+        "sessionId": "f4c216e6-4540-446e-b589-4fb1352b273d",
+        "logoId": "77a54169-2f94-47a2-a1b0-5d08267dfc7b",
+        "groupId": "c5d62eb0-9263-486a-9c51-5fb5ff961768"
+      },
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/f9e55652-7dae-4ae5-9c29-c3a723ac4a39/session/5e2e944d-dd3d-42d2-94b1-ac58ca055c0d/horizontal-transparent-9a1cb8b2-b5de-4e0b-afba-8c9873362257/logo-logo.png": {
+        "sessionId": "5e2e944d-dd3d-42d2-94b1-ac58ca055c0d",
+        "logoId": "9a1cb8b2-b5de-4e0b-afba-8c9873362257",
+        "parentUrl": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/f9e55652-7dae-4ae5-9c29-c3a723ac4a39/session/f4c216e6-4540-446e-b589-4fb1352b273d/horizontal-transparent-77a54169-2f94-47a2-a1b0-5d08267dfc7b/logo-logo.png",
+        "groupId": "bfee022a-e65d-4dd3-bd80-52932679137b"
+      },
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/f9e55652-7dae-4ae5-9c29-c3a723ac4a39/session/bb6024fc-0189-4ce5-a6fa-38e5180c029a/horizontal-transparent-3d2b5988-48a2-4596-905f-1cd37f9849ff/logo-logo.png": {
+        "sessionId": "bb6024fc-0189-4ce5-a6fa-38e5180c029a",
+        "logoId": "3d2b5988-48a2-4596-905f-1cd37f9849ff",
+        "parentUrl": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/f9e55652-7dae-4ae5-9c29-c3a723ac4a39/session/5e2e944d-dd3d-42d2-94b1-ac58ca055c0d/horizontal-transparent-9a1cb8b2-b5de-4e0b-afba-8c9873362257/logo-logo.png",
+        "groupId": "56610e9d-ede9-4fb7-8d7b-223394b092a4"
+      }
+    },
+    "productMockupsMap": {
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/f9e55652-7dae-4ae5-9c29-c3a723ac4a39/session/f4c216e6-4540-446e-b589-4fb1352b273d/horizontal-transparent-77a54169-2f94-47a2-a1b0-5d08267dfc7b/logo-logo.png": [
+        {
+          "type": "mug",
+          "label": "Mug",
+          "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/f9e55652-7dae-4ae5-9c29-c3a723ac4a39/session/f4c216e6-4540-446e-b589-4fb1352b273d/horizontal-mockup-mug-77a54169-2f94-47a2-a1b0-5d08267dfc7b/logo-logo.png"
+        },
+        {
+          "type": "card",
+          "label": "Business Card",
+          "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/f9e55652-7dae-4ae5-9c29-c3a723ac4a39/session/f4c216e6-4540-446e-b589-4fb1352b273d/horizontal-mockup-card-77a54169-2f94-47a2-a1b0-5d08267dfc7b/logo-logo.png"
+        },
+        {
+          "type": "tshirt",
+          "label": "T-Shirt",
+          "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/f9e55652-7dae-4ae5-9c29-c3a723ac4a39/session/f4c216e6-4540-446e-b589-4fb1352b273d/horizontal-mockup-tshirt-77a54169-2f94-47a2-a1b0-5d08267dfc7b/logo-logo.png"
+        },
+        {
+          "type": "box",
+          "label": "Packaging",
+          "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/f9e55652-7dae-4ae5-9c29-c3a723ac4a39/session/f4c216e6-4540-446e-b589-4fb1352b273d/horizontal-mockup-box-77a54169-2f94-47a2-a1b0-5d08267dfc7b/logo-logo.png"
+        }
+      ],
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/f9e55652-7dae-4ae5-9c29-c3a723ac4a39/session/5e2e944d-dd3d-42d2-94b1-ac58ca055c0d/horizontal-transparent-9a1cb8b2-b5de-4e0b-afba-8c9873362257/logo-logo.png": [
+        {
+          "type": "mug",
+          "label": "Mug",
+          "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/f9e55652-7dae-4ae5-9c29-c3a723ac4a39/session/5e2e944d-dd3d-42d2-94b1-ac58ca055c0d/horizontal-mockup-mug-9a1cb8b2-b5de-4e0b-afba-8c9873362257/logo-logo.png"
+        },
+        {
+          "type": "card",
+          "label": "Business Card",
+          "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/f9e55652-7dae-4ae5-9c29-c3a723ac4a39/session/5e2e944d-dd3d-42d2-94b1-ac58ca055c0d/horizontal-mockup-card-9a1cb8b2-b5de-4e0b-afba-8c9873362257/logo-logo.png"
+        },
+        {
+          "type": "tshirt",
+          "label": "T-Shirt",
+          "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/f9e55652-7dae-4ae5-9c29-c3a723ac4a39/session/5e2e944d-dd3d-42d2-94b1-ac58ca055c0d/horizontal-mockup-tshirt-9a1cb8b2-b5de-4e0b-afba-8c9873362257/logo-logo.png"
+        },
+        {
+          "type": "box",
+          "label": "Packaging",
+          "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/f9e55652-7dae-4ae5-9c29-c3a723ac4a39/session/5e2e944d-dd3d-42d2-94b1-ac58ca055c0d/horizontal-mockup-box-9a1cb8b2-b5de-4e0b-afba-8c9873362257/logo-logo.png"
+        }
+      ],
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/f9e55652-7dae-4ae5-9c29-c3a723ac4a39/session/bb6024fc-0189-4ce5-a6fa-38e5180c029a/horizontal-transparent-3d2b5988-48a2-4596-905f-1cd37f9849ff/logo-logo.png": [
+        {
+          "type": "mug",
+          "label": "Mug",
+          "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/f9e55652-7dae-4ae5-9c29-c3a723ac4a39/session/bb6024fc-0189-4ce5-a6fa-38e5180c029a/horizontal-mockup-mug-3d2b5988-48a2-4596-905f-1cd37f9849ff/logo-logo.png"
+        },
+        {
+          "type": "card",
+          "label": "Business Card",
+          "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/f9e55652-7dae-4ae5-9c29-c3a723ac4a39/session/bb6024fc-0189-4ce5-a6fa-38e5180c029a/horizontal-mockup-card-3d2b5988-48a2-4596-905f-1cd37f9849ff/logo-logo.png"
+        },
+        {
+          "type": "tshirt",
+          "label": "T-Shirt",
+          "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/f9e55652-7dae-4ae5-9c29-c3a723ac4a39/session/bb6024fc-0189-4ce5-a6fa-38e5180c029a/horizontal-mockup-tshirt-3d2b5988-48a2-4596-905f-1cd37f9849ff/logo-logo.png"
+        },
+        {
+          "type": "box",
+          "label": "Packaging",
+          "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/f9e55652-7dae-4ae5-9c29-c3a723ac4a39/session/bb6024fc-0189-4ce5-a6fa-38e5180c029a/horizontal-mockup-box-3d2b5988-48a2-4596-905f-1cd37f9849ff/logo-logo.png"
+        }
+      ]
+    },
+    "productMockups": [
+      {
+        "type": "mug",
+        "label": "Mug",
+        "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/f9e55652-7dae-4ae5-9c29-c3a723ac4a39/session/bb6024fc-0189-4ce5-a6fa-38e5180c029a/horizontal-mockup-mug-3d2b5988-48a2-4596-905f-1cd37f9849ff/logo-logo.png"
+      },
+      {
+        "type": "card",
+        "label": "Business Card",
+        "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/f9e55652-7dae-4ae5-9c29-c3a723ac4a39/session/bb6024fc-0189-4ce5-a6fa-38e5180c029a/horizontal-mockup-card-3d2b5988-48a2-4596-905f-1cd37f9849ff/logo-logo.png"
+      },
+      {
+        "type": "tshirt",
+        "label": "T-Shirt",
+        "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/f9e55652-7dae-4ae5-9c29-c3a723ac4a39/session/bb6024fc-0189-4ce5-a6fa-38e5180c029a/horizontal-mockup-tshirt-3d2b5988-48a2-4596-905f-1cd37f9849ff/logo-logo.png"
+      },
+      {
+        "type": "box",
+        "label": "Packaging",
+        "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/f9e55652-7dae-4ae5-9c29-c3a723ac4a39/session/bb6024fc-0189-4ce5-a6fa-38e5180c029a/horizontal-mockup-box-3d2b5988-48a2-4596-905f-1cd37f9849ff/logo-logo.png"
+      }
+    ],
+    "userModified": false,
+    "createdAt": "2026-08-30T02:19:36.683Z",
+    "lastUpdated": "2026-09-02T20:30:15.206Z",
+    "surfaceMode": "dark",
+    "generatedForSurfaceColor": "#0a1628",
+    "darkSurfaceUrl": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/f9e55652-7dae-4ae5-9c29-c3a723ac4a39/session/bb6024fc-0189-4ce5-a6fa-38e5180c029a/horizontal-transparent-3d2b5988-48a2-4596-905f-1cd37f9849ff/logo-logo.png",
+    "logoGroupId": "56610e9d-ede9-4fb7-8d7b-223394b092a4"
+  },
+  "logo/favicon": {
+    "mediaType": "logo",
+    "currentUrl": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/f9e55652-7dae-4ae5-9c29-c3a723ac4a39/session/f0f6e704-90b4-4738-933c-7de975da0056/favicon-transparent-de397122-7038-4073-851b-c2c2c08e0a53/logo-logo.png",
+    "searchQuery": "favicon",
+    "alternatives": [],
+    "logoSourceMap": {
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/f9e55652-7dae-4ae5-9c29-c3a723ac4a39/session/26546789-ec73-4a9f-aa72-de6074acde6f/favicon-transparent-096a77e7-a6bb-41ee-b3f7-d58b4546536b/logo-logo.png": {
+        "sessionId": "26546789-ec73-4a9f-aa72-de6074acde6f",
+        "logoId": "096a77e7-a6bb-41ee-b3f7-d58b4546536b",
+        "groupId": "c5d62eb0-9263-486a-9c51-5fb5ff961768"
+      },
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/f9e55652-7dae-4ae5-9c29-c3a723ac4a39/session/2422b9a8-9328-4ab3-ad45-4c7552f83e52/favicon-transparent-9f1ad419-e746-44f0-acfa-4bc734a0b09b/logo-logo.png": {
+        "sessionId": "2422b9a8-9328-4ab3-ad45-4c7552f83e52",
+        "logoId": "9f1ad419-e746-44f0-acfa-4bc734a0b09b",
+        "groupId": "bfee022a-e65d-4dd3-bd80-52932679137b",
+        "parentUrl": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/f9e55652-7dae-4ae5-9c29-c3a723ac4a39/session/26546789-ec73-4a9f-aa72-de6074acde6f/favicon-transparent-096a77e7-a6bb-41ee-b3f7-d58b4546536b/logo-logo.png"
+      },
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/f9e55652-7dae-4ae5-9c29-c3a723ac4a39/session/f0f6e704-90b4-4738-933c-7de975da0056/favicon-transparent-de397122-7038-4073-851b-c2c2c08e0a53/logo-logo.png": {
+        "sessionId": "f0f6e704-90b4-4738-933c-7de975da0056",
+        "logoId": "de397122-7038-4073-851b-c2c2c08e0a53",
+        "groupId": "56610e9d-ede9-4fb7-8d7b-223394b092a4",
+        "parentUrl": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/f9e55652-7dae-4ae5-9c29-c3a723ac4a39/session/2422b9a8-9328-4ab3-ad45-4c7552f83e52/favicon-transparent-9f1ad419-e746-44f0-acfa-4bc734a0b09b/logo-logo.png"
+      }
+    },
+    "logoGroupId": "56610e9d-ede9-4fb7-8d7b-223394b092a4",
+    "solidUrlMap": {
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/f9e55652-7dae-4ae5-9c29-c3a723ac4a39/session/f0f6e704-90b4-4738-933c-7de975da0056/favicon-transparent-de397122-7038-4073-851b-c2c2c08e0a53/logo-logo.png": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/f9e55652-7dae-4ae5-9c29-c3a723ac4a39/session/f0f6e704-90b4-4738-933c-7de975da0056/favicon-original-de397122-7038-4073-851b-c2c2c08e0a53/logo-logo.png"
+    },
+    "userModified": false,
+    "createdAt": "2026-08-30T02:19:51.477Z",
+    "lastUpdated": "2026-09-02T20:30:15.334Z",
+    "surfaceMode": "dark",
+    "generatedForSurfaceColor": "#0a1628",
+    "darkSurfaceUrl": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/f9e55652-7dae-4ae5-9c29-c3a723ac4a39/session/f0f6e704-90b4-4738-933c-7de975da0056/favicon-transparent-de397122-7038-4073-851b-c2c2c08e0a53/logo-logo.png"
+  },
+  "team/alejandro-reyes": {
+    "requestedSize": {
+      "width": 400,
+      "height": 400,
+      "fit": "cover"
+    },
+    "orientations": "square",
+    "graphicalStyles": "photography",
+    "minimumSize": "large",
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/465332051",
+    "searchQuery": "professional male executive portrait dark background",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2096781454",
+      "https://img1.wsimg.com/isteam/getty/155600370"
+    ],
+    "userModified": false,
+    "createdAt": "2026-08-30T02:22:32.768Z",
+    "lastUpdated": "2026-08-30T02:22:32.768Z",
+    "gettyId": "465332051",
+    "alternativeGettyIds": [
+      "2096781454",
+      "155600370"
+    ]
+  },
+  "pages/about/hero": {
+    "requestedSize": {
+      "width": 1200,
+      "height": 600,
+      "fit": "cover"
+    },
+    "orientations": "horizontal",
+    "graphicalStyles": "photography",
+    "minimumSize": "large",
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1310354531",
+    "searchQuery": "diverse business team meeting investors startup pitch",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2152719786",
+      "https://img1.wsimg.com/isteam/getty/2257752960"
+    ],
+    "userModified": false,
+    "createdAt": "2026-08-30T02:22:33.034Z",
+    "lastUpdated": "2026-08-30T02:22:33.034Z",
+    "gettyId": "1310354531",
+    "alternativeGettyIds": [
+      "2152719786",
+      "2257752960"
+    ]
+  },
+  "team/diego-montoya": {
+    "requestedSize": {
+      "width": 400,
+      "height": 400,
+      "fit": "cover"
+    },
+    "orientations": "square",
+    "graphicalStyles": "photography",
+    "minimumSize": "large",
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1494257377",
+    "searchQuery": "professional latin male engineer executive portrait",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/1494257247",
+      "https://img1.wsimg.com/isteam/getty/1494257388"
+    ],
+    "userModified": false,
+    "createdAt": "2026-08-30T02:22:34.108Z",
+    "lastUpdated": "2026-08-30T02:22:34.108Z",
+    "gettyId": "1494257377",
+    "alternativeGettyIds": [
+      "1494257247",
+      "1494257388"
+    ]
+  },
+  "team/valentina-cruz": {
+    "requestedSize": {
+      "width": 400,
+      "height": 400,
+      "fit": "cover"
+    },
+    "orientations": "square",
+    "graphicalStyles": "photography",
+    "minimumSize": "large",
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1296155667",
+    "searchQuery": "professional latina businesswoman executive portrait",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/1336310671",
+      "https://img1.wsimg.com/isteam/getty/2194877844"
+    ],
+    "userModified": false,
+    "createdAt": "2026-08-30T02:22:36.974Z",
+    "lastUpdated": "2026-08-30T02:22:36.974Z",
+    "gettyId": "1296155667",
+    "alternativeGettyIds": [
+      "1336310671",
+      "2194877844"
+    ]
+  },
+  "pages/criteria/hero": {
+    "requestedSize": {
+      "width": 1200,
+      "height": 500,
+      "fit": "cover"
+    },
+    "orientations": "horizontal",
+    "minimumSize": "large",
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2270500237",
+    "searchQuery": "venture capital investment strategy analysis data charts dark professional",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/1388387885",
+      "https://img1.wsimg.com/isteam/getty/1357752804",
+      "https://img1.wsimg.com/isteam/getty/1358927461"
+    ],
+    "userModified": false,
+    "createdAt": "2026-08-30T02:33:46.421Z",
+    "lastUpdated": "2026-08-30T02:33:46.421Z",
+    "gettyId": "2270500237",
+    "alternativeGettyIds": [
+      "1388387885",
+      "1357752804",
+      "1358927461"
+    ]
+  }
+}
