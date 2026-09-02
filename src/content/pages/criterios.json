@@ -1,0 +1,209 @@
+{
+  "hero": {
+    "eyebrow": "Tesis de inversión",
+    "title": "Dónde y cómo invertimos",
+    "subtitle": "No somos un fondo generalista. Tenemos una tesis clara sobre los mercados, etapas y tipos de fundadores en los que creemos. Aquí explicamos exactamente qué buscamos."
+  },
+  "thesis": {
+    "title": "Nuestra tesis",
+    "body": [
+      {
+        "id": "p1",
+        "text": "Montiver invierte en empresas tecnológicas de alto crecimiento en Latinoamérica que resuelven problemas estructurales de la región con soluciones escalables globalmente. Creemos que los mejores fundadores latinoamericanos construyen desde el conocimiento profundo del mercado local, con la ambición de expandirse al mundo."
+      },
+      {
+        "id": "p2",
+        "text": "Nos enfocamos en etapas tempranas (Pre-seed a Series A) donde el capital y la mentoría estratégica tienen el mayor impacto. Somos inversores activos: abrimos puertas, conectamos con clientes y co-construimos la estrategia de crecimiento junto al equipo fundador."
+      }
+    ]
+  },
+  "focus": {
+    "eyebrow": "Áreas de enfoque",
+    "title": "Sectores donde tenemos convicción",
+    "subtitle": "Invertimos donde la tecnología puede transformar industrias que mueven billones de dólares en la región.",
+    "sectors": [
+      {
+        "id": "s1",
+        "name": "Fintech",
+        "description": "Infraestructura financiera, pagos, crédito alternativo, seguros digitales y servicios para los 300M de latinoamericanos sin acceso bancario.",
+        "examples": "Pagos B2B, lending, neobancos, open banking",
+        "conviction": "Alta"
+      },
+      {
+        "id": "s2",
+        "name": "Healthtech",
+        "description": "Digitalización de la salud: telemedicina, gestión hospitalaria, diagnóstico asistido por IA y acceso a medicamentos.",
+        "examples": "Telemedicina, SaaS clínico, farmacias digitales",
+        "conviction": "Alta"
+      },
+      {
+        "id": "s3",
+        "name": "SaaS B2B",
+        "description": "Software vertical para industrias con baja penetración tecnológica: construcción, manufactura, retail, logística y agro.",
+        "examples": "ERP vertical, automatización, herramientas de productividad",
+        "conviction": "Alta"
+      },
+      {
+        "id": "s4",
+        "name": "Logística y Supply Chain",
+        "description": "Soluciones que reducen los costos logísticos de la región, que son 2x más altos que el promedio global.",
+        "examples": "Last-mile, freight tech, visibilidad de cadena de suministro",
+        "conviction": "Alta"
+      },
+      {
+        "id": "s5",
+        "name": "Edtech",
+        "description": "Formación técnica, upskilling y acceso a educación de calidad para los 650M de habitantes de la región.",
+        "examples": "Bootcamps, plataformas de aprendizaje, certificaciones",
+        "conviction": "Media"
+      },
+      {
+        "id": "s6",
+        "name": "Marketplace",
+        "description": "Plataformas que conectan oferta y demanda en mercados fragmentados con alta fricción transaccional.",
+        "examples": "Servicios profesionales, insumos industriales, bienes raíces",
+        "conviction": "Media"
+      }
+    ]
+  },
+  "criteria": {
+    "eyebrow": "Criterios de selección",
+    "title": "Lo que evaluamos en cada empresa",
+    "subtitle": "Nuestro proceso de evaluación se centra en 5 dimensiones. No todas tienen que ser perfectas, pero sí necesitamos convicción en la mayoría.",
+    "items": [
+      {
+        "id": "c1",
+        "number": "01",
+        "title": "Equipo fundador",
+        "weight": "35%",
+        "description": "El criterio más importante. Buscamos fundadores con experiencia relevante en el problema que resuelven, capacidad de ejecución demostrada y la resiliencia para sobrevivir los momentos difíciles.",
+        "signals": [
+          "Experiencia directa en la industria",
+          "Track record de ejecución",
+          "Complementariedad del equipo",
+          "Capacidad de atraer talento"
+        ]
+      },
+      {
+        "id": "c2",
+        "number": "02",
+        "title": "Tamaño de mercado",
+        "weight": "25%",
+        "description": "Invertimos en mercados con TAM superior a $500M en LATAM o con potencial de expansión global. El problema debe ser lo suficientemente grande para justificar una empresa de $100M+.",
+        "signals": [
+          "TAM > $500M en LATAM",
+          "Mercado en crecimiento",
+          "Potencial de expansión regional",
+          "Baja penetración tecnológica actual"
+        ]
+      },
+      {
+        "id": "c3",
+        "number": "03",
+        "title": "Tracción y métricas",
+        "weight": "20%",
+        "description": "Evidencia de que el mercado quiere el producto. No exigimos ingresos en Pre-seed, pero sí señales claras de demanda: usuarios activos, retención, cartas de intención o pilotos pagados.",
+        "signals": [
+          "Crecimiento MoM > 15%",
+          "Retención > 60% a 6 meses",
+          "NPS > 40",
+          "Clientes pagando o LOIs firmadas"
+        ]
+      },
+      {
+        "id": "c4",
+        "number": "04",
+        "title": "Modelo de negocio",
+        "weight": "12%",
+        "description": "Un camino claro hacia la rentabilidad con unit economics favorables. No necesita ser rentable hoy, pero sí debe tener una lógica de negocio que escale con el tiempo.",
+        "signals": [
+          "LTV/CAC > 3x",
+          "Márgenes brutos > 50%",
+          "Ingresos recurrentes o predecibles",
+          "Payback period < 18 meses"
+        ]
+      },
+      {
+        "id": "c5",
+        "number": "05",
+        "title": "Ventaja competitiva",
+        "weight": "8%",
+        "description": "Una razón por la que esta empresa puede ganar y mantener su posición: tecnología propietaria, efectos de red, datos únicos, regulación favorable o costos de cambio altos.",
+        "signals": [
+          "Tecnología difícil de replicar",
+          "Efectos de red",
+          "Datos propietarios",
+          "Relaciones exclusivas o regulación"
+        ]
+      }
+    ]
+  },
+  "stages": {
+    "eyebrow": "Etapas de inversión",
+    "title": "¿En qué momento entramos?",
+    "items": [
+      {
+        "id": "st1",
+        "stage": "Pre-seed",
+        "ticket": "$100K – $500K",
+        "equity": "5% – 12%",
+        "milestone": "MVP + primeros usuarios",
+        "description": "Entramos cuando hay un equipo sólido, un problema claro y evidencia temprana de que el mercado existe. El producto puede estar en beta o con primeros clientes.",
+        "ideal": true
+      },
+      {
+        "id": "st2",
+        "stage": "Seed",
+        "ticket": "$500K – $2M",
+        "equity": "8% – 18%",
+        "milestone": "PMF inicial + crecimiento",
+        "description": "La empresa tiene product-market fit inicial, ingresos recurrentes y un modelo de crecimiento que empieza a funcionar. Buscamos escalar lo que ya funciona.",
+        "ideal": true
+      },
+      {
+        "id": "st3",
+        "stage": "Series A",
+        "ticket": "$2M – $5M",
+        "equity": "10% – 20%",
+        "milestone": "Modelo probado + escala",
+        "description": "Participamos en Series A cuando hemos invertido en etapas anteriores y queremos seguir apoyando el crecimiento. Raramente entramos por primera vez en esta etapa.",
+        "ideal": false
+      }
+    ]
+  },
+  "nonFocus": {
+    "title": "Lo que no financiamos",
+    "subtitle": "Ser honestos sobre lo que no hacemos nos ahorra tiempo a todos.",
+    "items": [
+      {
+        "id": "nf1",
+        "text": "Empresas sin componente tecnológico relevante"
+      },
+      {
+        "id": "nf2",
+        "text": "Negocios de servicios profesionales sin escalabilidad"
+      },
+      {
+        "id": "nf3",
+        "text": "Proyectos en etapa de idea sin validación alguna"
+      },
+      {
+        "id": "nf4",
+        "text": "Industrias reguladas con barreras de entrada insuperables"
+      },
+      {
+        "id": "nf5",
+        "text": "Empresas fuera de Latinoamérica o sin presencia en la región"
+      },
+      {
+        "id": "nf6",
+        "text": "Proyectos de criptomonedas o tokens especulativos"
+      }
+    ]
+  },
+  "cta": {
+    "title": "¿Tu empresa encaja con nuestra tesis?",
+    "subtitle": "Si cumples la mayoría de nuestros criterios, el siguiente paso es una conversación de 45 minutos con nuestro equipo.",
+    "button": "Agendar reunión"
+  }
+}

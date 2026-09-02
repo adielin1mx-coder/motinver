@@ -1,0 +1,103 @@
+{
+  "hero": {
+    "eyebrow": "Sobre Montiver",
+    "title": "No somos solo capital. Somos el socio que cambia el juego.",
+    "subtitle": "Fundado por emprendedores que entendieron que el dinero sin estrategia no escala. Montiver nació para ser el fondo que los fundadores merecen."
+  },
+  "story": {
+    "title": "Nuestra historia",
+    "paragraphs": [
+      {
+        "id": "p1",
+        "text": "Montiver nació en 2014 de una frustración compartida: los mejores fundadores de Latinoamérica no tenían acceso a capital inteligente. Existía dinero, pero no existían socios que entendieran los desafíos reales de construir una empresa en la región."
+      },
+      {
+        "id": "p2",
+        "text": "Nuestros fundadores habían pasado por ese proceso. Habían levantado capital, habían escalado empresas y habían cometido los errores que cuestan caro. Decidieron que la siguiente generación de fundadores merecía algo mejor: un fondo que invirtiera con convicción y acompañara con experiencia."
+      },
+      {
+        "id": "p3",
+        "text": "Hoy, con más de $280M desplegados y 47 empresas en portafolio, Montiver es el fondo de referencia para fundadores que quieren construir empresas que duren décadas."
+      }
+    ]
+  },
+  "values": {
+    "title": "Lo que nos define",
+    "items": [
+      {
+        "id": "v1",
+        "title": "Convicción sobre consenso",
+        "description": "Invertimos cuando creemos profundamente en una oportunidad, no cuando el mercado ya lo validó. Las mejores apuestas siempre parecen contraintuitivas al principio."
+      },
+      {
+        "id": "v2",
+        "title": "Fundadores primero",
+        "description": "Cada decisión que tomamos pasa por un filtro: ¿beneficia al fundador? Somos socios, no jefes. El éxito del fundador es nuestro éxito."
+      },
+      {
+        "id": "v3",
+        "title": "Largo plazo",
+        "description": "No buscamos salidas rápidas. Construimos relaciones y empresas que duren. Nuestro horizonte de inversión es de 7 a 10 años."
+      },
+      {
+        "id": "v4",
+        "title": "Transparencia radical",
+        "description": "Decimos lo que pensamos, aunque no sea lo que el fundador quiere escuchar. La honestidad incómoda hoy evita fracasos costosos mañana."
+      }
+    ]
+  },
+  "team": {
+    "title": "El equipo inversor",
+    "subtitle": "Operadores antes que inversores. Cada miembro del equipo ha construido o escalado empresas antes de unirse a Montiver.",
+    "members": [
+      {
+        "id": "tm1",
+        "name": "Alejandro Reyes",
+        "role": "Socio Fundador & CEO",
+        "bio": "Ex-fundador de dos startups de tecnología financiera. 15 años de experiencia en mercados de capital y venture capital en México y EE.UU.",
+        "focus": "Fintech · Infraestructura financiera"
+      },
+      {
+        "id": "tm2",
+        "name": "Valentina Cruz",
+        "role": "Socia de Inversiones",
+        "bio": "Ex-VP de Producto en una unicornio latinoamericana. Especialista en empresas de consumo digital y marketplaces con tracción en múltiples mercados.",
+        "focus": "Marketplaces · Consumer Tech"
+      },
+      {
+        "id": "tm3",
+        "name": "Diego Montoya",
+        "role": "Director de Portafolio",
+        "bio": "Ingeniero y MBA. Lideró operaciones de escala en tres empresas de logística y supply chain antes de unirse a Montiver como responsable del portafolio.",
+        "focus": "Logística · B2B SaaS"
+      }
+    ]
+  },
+  "stats": [
+    {
+      "id": "s1",
+      "value": "2014",
+      "label": "Año de fundación"
+    },
+    {
+      "id": "s2",
+      "value": "47+",
+      "label": "Empresas en portafolio"
+    },
+    {
+      "id": "s3",
+      "value": "$280M",
+      "label": "Capital desplegado"
+    },
+    {
+      "id": "s4",
+      "value": "8",
+      "label": "Países de presencia"
+    }
+  ],
+  "cta": {
+    "title": "Construyamos juntos",
+    "subtitle": "Si tienes una empresa con potencial de transformar una industria, queremos conocerte.",
+    "button": "Agendar reunión"
+  }
+}

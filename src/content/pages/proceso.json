@@ -1,0 +1,149 @@
+{
+  "hero": {
+    "eyebrow": "Proceso de inversión",
+    "title": "Transparente. Ágil. Diseñado para fundadores.",
+    "subtitle": "Sabemos que tu tiempo es tu activo más valioso. Por eso nuestro proceso es directo, sin burocracia y con decisiones en semanas, no meses."
+  },
+  "steps": [
+    {
+      "id": "st1",
+      "number": "01",
+      "title": "Aplicación inicial",
+      "duration": "72 horas de respuesta",
+      "description": "Completa nuestro formulario de 10 minutos con información básica sobre tu empresa, equipo y tracción actual. Revisamos cada solicitud personalmente.",
+      "details": [
+        "Formulario estructurado de 10 minutos",
+        "Revisión por nuestro equipo de analistas",
+        "Respuesta garantizada en menos de 72 horas",
+        "Sin pitch deck requerido en esta etapa"
+      ]
+    },
+    {
+      "id": "st2",
+      "number": "02",
+      "title": "Primera reunión",
+      "duration": "45 minutos",
+      "description": "Una conversación honesta con nuestro equipo de inversión. Queremos entender tu visión, el problema que resuelves y por qué tu equipo es el indicado para resolverlo.",
+      "details": [
+        "Reunión virtual o presencial en CDMX",
+        "Participan 2 socios del fondo",
+        "Sin presentación formal requerida",
+        "Enfoque en visión, equipo y mercado"
+      ]
+    },
+    {
+      "id": "st3",
+      "number": "03",
+      "title": "Due diligence",
+      "duration": "2 a 3 semanas",
+      "description": "Análisis profundo del modelo de negocio, métricas de crecimiento, estructura legal y potencial de escala. Trabajamos contigo, no contra ti.",
+      "details": [
+        "Revisión de métricas y modelo financiero",
+        "Análisis de mercado y competencia",
+        "Revisión legal y estructura societaria",
+        "Entrevistas con clientes clave (opcional)"
+      ]
+    },
+    {
+      "id": "st4",
+      "number": "04",
+      "title": "Cierre y despliegue",
+      "duration": "1 a 2 semanas",
+      "description": "Firma del term sheet, documentación legal y despliegue de capital. Desde el primer día somos socios activos: red de contactos, mentoría estratégica y acceso a nuestro ecosistema.",
+      "details": [
+        "Term sheet claro y sin sorpresas",
+        "Documentación legal estándar",
+        "Despliegue de capital en 5 días hábiles",
+        "Onboarding con el equipo de Montiver"
+      ]
+    }
+  ],
+  "criteria": {
+    "title": "¿Qué buscamos en una empresa?",
+    "subtitle": "No invertimos en ideas. Invertimos en fundadores con evidencia de que están construyendo algo que el mercado necesita.",
+    "items": [
+      {
+        "id": "cr1",
+        "title": "Equipo excepcional",
+        "description": "Fundadores con experiencia relevante, complementariedad de habilidades y obsesión por el problema que resuelven."
+      },
+      {
+        "id": "cr2",
+        "title": "Mercado grande",
+        "description": "Oportunidades con TAM superior a $500M en Latinoamérica o con potencial de expansión global desde la región."
+      },
+      {
+        "id": "cr3",
+        "title": "Tracción demostrable",
+        "description": "Evidencia de que el mercado quiere tu producto: usuarios activos, ingresos recurrentes o cartas de intención firmadas."
+      },
+      {
+        "id": "cr4",
+        "title": "Ventaja competitiva",
+        "description": "Una razón clara por la que tu empresa puede ganar: tecnología propietaria, efectos de red, datos únicos o posición de mercado."
+      }
+    ]
+  },
+  "tickets": {
+    "title": "Tamaños de inversión",
+    "items": [
+      {
+        "id": "t1",
+        "stage": "Pre-seed",
+        "range": "$100K – $500K",
+        "equity": "5% – 12%",
+        "description": "Para empresas con MVP validado y primeros usuarios o clientes."
+      },
+      {
+        "id": "t2",
+        "stage": "Seed",
+        "range": "$500K – $2M",
+        "equity": "8% – 18%",
+        "description": "Para empresas con product-market fit inicial y crecimiento sostenido."
+      },
+      {
+        "id": "t3",
+        "stage": "Series A / B",
+        "range": "$2M – $10M",
+        "equity": "10% – 20%",
+        "description": "Para empresas con modelo probado listas para escalar agresivamente."
+      }
+    ]
+  },
+  "showcase": {
+    "eyebrow": "Resultados que hablan",
+    "title": "Fundadores que confiaron en el proceso",
+    "subtitle": "Estas empresas pasaron por los mismos 4 pasos. Hoy son referentes en sus industrias.",
+    "items": [
+      {
+        "id": "sh1",
+        "quote": "El proceso de Montiver fue el más transparente que vivimos. En 3 semanas teníamos el capital y un socio que realmente entiende nuestro mercado.",
+        "author": "Carlos Mendoza",
+        "role": "CEO & Co-fundador, NovaPay",
+        "stage": "Series A",
+        "result": "$4.2M levantados"
+      },
+      {
+        "id": "sh2",
+        "quote": "Lo que más valoramos fue la honestidad durante el due diligence. No nos dijeron lo que queríamos escuchar, sino lo que necesitábamos saber para escalar bien.",
+        "author": "Ana Sofía Herrera",
+        "role": "Fundadora, HealthCore",
+        "stage": "Seed",
+        "result": "$1.8M levantados"
+      },
+      {
+        "id": "sh3",
+        "quote": "Desde la primera reunión supimos que Montiver era diferente. Dos socios, sin presentación formal, solo una conversación real sobre el problema que resolvemos.",
+        "author": "Rafael Torres",
+        "role": "CTO & Co-fundador, LogiX",
+        "stage": "Series B",
+        "result": "$8.5M levantados"
+      }
+    ]
+  },
+  "cta": {
+    "title": "El primer paso es el más importante",
+    "subtitle": "Completa la aplicación y nuestro equipo te contactará en menos de 72 horas.",
+    "button": "Iniciar aplicación"
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "hero": {
+    "eyebrow": "Fondo de inversión estratégico",
+    "title": "El capital que necesitas.",
+    "titleLine2": "El socio que mereces.",
+    "subtitle": "Montiver impulsa a los fundadores más ambiciosos de Latinoamérica. Desde pre-seed hasta Series B, somos el activo más poderoso en tu mesa de cap.",
+    "ctaPrimary": "Ver portafolio",
+    "ctaSecondary": "Agendar reunión"
+  },
+  "metrics": [
+    {
+      "id": "m1",
+      "value": "47",
+      "suffix": "+",
+      "label": "Empresas financiadas"
+    },
+    {
+      "id": "m2",
+      "value": "$280",
+      "suffix": "M",
+      "label": "Capital desplegado"
+    },
+    {
+      "id": "m3",
+      "value": "3.8",
+      "suffix": "x",
+      "label": "Retorno promedio"
+    },
+    {
+      "id": "m4",
+      "value": "12",
+      "suffix": "",
+      "label": "Años de experiencia"
+    }
+  ],
+  "sectors": {
+    "title": "Sectores donde invertimos",
+    "subtitle": "Identificamos oportunidades donde la tecnología y el talento crean ventajas competitivas duraderas.",
+    "items": [
+      {
+        "id": "s1",
+        "name": "Tecnología"
+      },
+      {
+        "id": "s2",
+        "name": "Fintech"
+      },
+      {
+        "id": "s3",
+        "name": "Salud Digital"
+      },
+      {
+        "id": "s4",
+        "name": "Retail & E-commerce"
+      },
+      {
+        "id": "s5",
+        "name": "Logística"
+      },
+      {
+        "id": "s6",
+        "name": "Educación"
+      },
+      {
+        "id": "s7",
+        "name": "Energía Limpia"
+      },
+      {
+        "id": "s8",
+        "name": "Agritech"
+      }
+    ]
+  },
+  "portfolio": {
+    "eyebrow": "Portafolio destacado",
+    "title": "Empresas que están cambiando las reglas",
+    "subtitle": "Casos de éxito de fundadores que apostaron por Montiver como su socio estratégico.",
+    "items": [
+      {
+        "id": "p1",
+        "company": "NovaPay",
+        "sector": "Fintech",
+        "stage": "Series A",
+        "metric": "+340% crecimiento en 18 meses",
+        "description": "Plataforma de pagos B2B que procesa más de $50M mensuales en transacciones para PYMEs de México y Colombia."
+      },
+      {
+        "id": "p2",
+        "company": "HealthCore",
+        "sector": "Salud Digital",
+        "stage": "Seed",
+        "metric": "200K pacientes activos",
+        "description": "Red de telemedicina que conecta a especialistas con pacientes en zonas de difícil acceso en toda Latinoamérica."
+      },
+      {
+        "id": "p3",
+        "company": "LogiX",
+        "sector": "Logística",
+        "stage": "Series B",
+        "metric": "$120M en valuación",
+        "description": "Infraestructura de última milla que optimiza rutas de entrega con IA, reduciendo costos operativos un 38%."
+      }
+    ],
+    "cta": "Ver portafolio completo"
+  },
+  "process": {
+    "eyebrow": "Proceso de inversión",
+    "title": "Cuatro pasos hacia el capital",
+    "subtitle": "Un proceso transparente, ágil y diseñado para que los fundadores enfoquen su energía en construir.",
+    "steps": [
+      {
+        "id": "st1",
+        "number": "01",
+        "title": "Aplicación inicial",
+        "description": "Completa nuestro formulario de 10 minutos. Revisamos cada solicitud en menos de 72 horas."
+      },
+      {
+        "id": "st2",
+        "number": "02",
+        "title": "Primera reunión",
+        "description": "Una conversación de 45 minutos con nuestro equipo para entender tu visión, tracción y mercado objetivo."
+      },
+      {
+        "id": "st3",
+        "number": "03",
+        "title": "Due diligence",
+        "description": "Análisis profundo del modelo de negocio, equipo, métricas y potencial de escala. Proceso de 2-3 semanas."
+      },
+      {
+        "id": "st4",
+        "number": "04",
+        "title": "Cierre y despliegue",
+        "description": "Firma de acuerdo y despliegue de capital. Desde ese día, somos socios activos en tu crecimiento."
+      }
+    ]
+  },
+  "cta": {
+    "title": "¿Listo para escalar?",
+    "subtitle": "Los mejores fundadores no esperan la oportunidad perfecta. La crean. Hablemos.",
+    "button": "Agendar reunión ahora",
+    "note": "Respondemos en menos de 48 horas"
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "hero": {
+    "eyebrow": "Primer contacto",
+    "title": "Agenda una reunión con el equipo",
+    "subtitle": "Selecciona fecha y hora, cuéntanos sobre tu empresa y nuestro equipo de inversión te contactará para confirmar."
+  },
+  "form": {
+    "title": "Cuéntanos sobre tu empresa",
+    "fields": {
+      "name": "Nombre completo",
+      "email": "Correo electrónico",
+      "company": "Empresa",
+      "website": "Sitio web",
+      "stage": "Etapa de la empresa",
+      "sector": "Sector",
+      "raise": "Monto a levantar",
+      "description": "Descripción del negocio",
+      "submit": "Confirmar solicitud"
+    },
+    "stageOptions": [
+      "Pre-seed",
+      "Seed",
+      "Series A",
+      "Series B"
+    ],
+    "sectorOptions": [
+      "Fintech",
+      "Healthtech",
+      "Edtech",
+      "Logística",
+      "SaaS B2B",
+      "Marketplace",
+      "Otro"
+    ],
+    "raiseOptions": [
+      "$100K – $500K",
+      "$500K – $1M",
+      "$1M – $3M",
+      "$3M – $5M",
+      "$5M – $10M",
+      "Más de $10M"
+    ]
+  },
+  "sidebar": {
+    "title": "¿Qué esperar de la reunión?",
+    "steps": [
+      {
+        "step": "1",
+        "title": "Revisión previa",
+        "description": "Nuestro equipo revisa tu solicitud antes de la reunión para llegar preparados.",
+        "id": "5aGnC23jxJk9DuDEq1By5"
+      },
+      {
+        "step": "2",
+        "title": "Conversación de 45 min",
+        "description": "Una charla honesta sobre tu visión, equipo y el problema que resuelves.",
+        "id": "LqxsrwGo2vGiyLurISQ6B"
+      },
+      {
+        "step": "3",
+        "title": "Respuesta en 72 horas",
+        "description": "Te comunicamos si avanzamos al proceso de due diligence o no, siempre con feedback.",
+        "id": "Dl8G3Lq2OS5Dzxn6slX4P"
+      }
+    ],
+    "contact": {
+      "title": "¿Prefieres escribirnos directamente?",
+      "email": "contacto@sapere-aude.com.mx",
+      "whatsapp": "+525516607435",
+      "whatsappLabel": "+52 55 1660 7435",
+      "note": "Respondemos todos los correos en menos de 48 horas hábiles."
+    }
+  }
+}

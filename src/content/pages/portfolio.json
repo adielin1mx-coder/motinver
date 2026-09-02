@@ -1,0 +1,117 @@
+{
+  "hero": {
+    "eyebrow": "Nuestro portafolio",
+    "title": "Empresas que están redefiniendo industrias",
+    "subtitle": "Cada empresa en nuestro portafolio representa una apuesta calculada por fundadores excepcionales y mercados con potencial transformador."
+  },
+  "filters": [
+    "Todos",
+    "Pre-seed",
+    "Seed",
+    "Series A",
+    "Series B"
+  ],
+  "companies": [
+    {
+      "id": "c1",
+      "company": "NovaPay",
+      "sector": "Fintech",
+      "stage": "Series A",
+      "country": "México",
+      "founded": "2021",
+      "metric": "+340% crecimiento",
+      "metricLabel": "en 18 meses",
+      "description": "Plataforma de pagos B2B que procesa más de $50M mensuales en transacciones para PYMEs de México y Colombia. Integración nativa con los principales ERPs del mercado.",
+      "tags": [
+        "Pagos",
+        "B2B",
+        "PYMEs"
+      ]
+    },
+    {
+      "id": "c2",
+      "company": "HealthCore",
+      "sector": "Salud Digital",
+      "stage": "Seed",
+      "country": "Colombia",
+      "founded": "2022",
+      "metric": "200K",
+      "metricLabel": "pacientes activos",
+      "description": "Red de telemedicina que conecta a especialistas con pacientes en zonas de difícil acceso. Presente en 8 países de Latinoamérica con más de 500 médicos certificados.",
+      "tags": [
+        "Telemedicina",
+        "Acceso",
+        "IA"
+      ]
+    },
+    {
+      "id": "c3",
+      "company": "LogiX",
+      "sector": "Logística",
+      "stage": "Series B",
+      "country": "Brasil",
+      "founded": "2020",
+      "metric": "$120M",
+      "metricLabel": "valuación actual",
+      "description": "Infraestructura de última milla que optimiza rutas de entrega con IA, reduciendo costos operativos un 38%. Más de 2,000 empresas confían en su plataforma.",
+      "tags": [
+        "Última milla",
+        "IA",
+        "Optimización"
+      ]
+    },
+    {
+      "id": "c4",
+      "company": "EduPath",
+      "sector": "Educación",
+      "stage": "Seed",
+      "country": "Argentina",
+      "founded": "2022",
+      "metric": "85K",
+      "metricLabel": "estudiantes activos",
+      "description": "Plataforma de upskilling para profesionales en tecnología con rutas de aprendizaje personalizadas por IA. Tasa de empleabilidad del 92% post-certificación.",
+      "tags": [
+        "Upskilling",
+        "Tech",
+        "Certificaciones"
+      ]
+    },
+    {
+      "id": "c5",
+      "company": "AgroSense",
+      "sector": "Agritech",
+      "stage": "Pre-seed",
+      "country": "México",
+      "founded": "2023",
+      "metric": "30%",
+      "metricLabel": "reducción de pérdidas",
+      "description": "Sensores IoT y análisis predictivo para agricultores medianos. Monitoreo en tiempo real de cultivos que reduce pérdidas por plagas y condiciones climáticas adversas.",
+      "tags": [
+        "IoT",
+        "Agricultura",
+        "Predicción"
+      ]
+    },
+    {
+      "id": "c6",
+      "company": "GreenWatt",
+      "sector": "Energía Limpia",
+      "stage": "Series A",
+      "country": "Chile",
+      "founded": "2021",
+      "metric": "45MW",
+      "metricLabel": "capacidad instalada",
+      "description": "Marketplace de energía solar para empresas medianas. Facilita la transición energética con modelos de financiamiento flexibles y sin inversión inicial.",
+      "tags": [
+        "Solar",
+        "Marketplace",
+        "B2B"
+      ]
+    }
+  ],
+  "cta": {
+    "title": "¿Tu empresa podría ser la próxima?",
+    "subtitle": "Buscamos fundadores con visión, tracción y ambición de escala global.",
+    "button": "Aplicar al fondo"
+  }
+}
